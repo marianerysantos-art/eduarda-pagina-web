@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>blog</title>
-    <style>
+
         header {
             background-color: #C390F9;
             color: #FFFFFF;
@@ -43,24 +37,3 @@
         button {
             cursor: pointer;
         }
-    </style>
-</head>
-<body>
-
-    <header>
-        <h1>Meu Blog</h1>
-    </header>
-
-    <main>
-        <article>
-            <img src="https://via.placeholder.com/80" alt="Foto do autor">
-            <div>
-                <p class="artigo-autor">Nome do Autor</p>
-                <p>Texto de exemplo do artigo.</p>
-                <button>Leia mais</button>
-            </div>
-        </article>
-    </main>
-
-</body>
-</html>
